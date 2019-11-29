@@ -15,6 +15,7 @@ public class GithubTry {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int x = 9; 
         // TODO code application logic here
     }
     
